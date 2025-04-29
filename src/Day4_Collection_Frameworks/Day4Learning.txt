@@ -1,0 +1,11 @@
+Collection Frameworks ----->
+                            Optimized Implementation of Data Structures
+
+                      Types.
+                      1. Lists ----> ArrayList, LinkedList, Vector(Legacy), Stack(Legacy)
+                      2. Sets -----> HashSet(unordered), LinkedHashSet(Ordered), TreeSet(Tree-Based)
+                      3. Maps ---> HashMap, LinkedHashMap, TreeMap
+                      4. Queues ---> LinkedList, ArrayDeque
+
+                      Note:- Stacks are usually implemented using the ArrayDeque.
+
